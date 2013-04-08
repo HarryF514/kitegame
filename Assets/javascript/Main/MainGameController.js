@@ -15,6 +15,7 @@ function Update () {
 //if the number o background is more than 2, we will destory the first one,
 function createBackground(){
 	//first test
+	//second test
 }
 
 //determin the type of the os
